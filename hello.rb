@@ -2,5 +2,3 @@
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
-
-#i dont want this line
